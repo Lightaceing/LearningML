@@ -2,6 +2,7 @@
 
 # List of Programs
 
+
 1. neuron.py
 This is a Adaline network built from scratch, it does forward and back-propogation.
 
@@ -16,3 +17,6 @@ Using sklearn to build multi class sentiment classification using Random Forest 
 
 5.linear_reg.py
 Linear Regression implementation
+
+6.Naive Bayes Classifier
+Multiclass classifier for sentiment analysis implemented, data can be loaded from JSON files
